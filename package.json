@@ -1,0 +1,23 @@
+{
+  "name": "web-crawler-http",
+  "version": "1.0.0",
+  "description": "Project for the Learn HTTP course\r https://www.youtube.com/watch?v=2JYT5f2isg4&t=0s",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/halil-bekli/web-crawler-http.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/halil-bekli/web-crawler-http/issues"
+  },
+  "homepage": "https://github.com/halil-bekli/web-crawler-http#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
